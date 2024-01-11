@@ -20,9 +20,9 @@ Three feature selection techniques are explored:
 
 Results:
 
-```
 Run time (less is better):
 
+```
 SFS:    44.850 sec
 GA:     157.604 sec
 CMA-ES: 46.912 sec
@@ -36,9 +36,9 @@ GA:     600525
 CMA-ES: 20000
 ```
 
-```
 Objective function best value found (less is better):
 
+```
 SFS:    33708.9860
 GA:     33705.5696
 CMA-ES: 33703.0705
