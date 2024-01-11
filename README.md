@@ -23,13 +23,21 @@ Results:
 ```
 Run time (less is better):
 
-SFS:    43.398 sec
-GA:     161.511 sec
-CMA-ES: 48.205 sec
+SFS:    44.850 sec
+GA:     157.604 sec
+CMA-ES: 46.912 sec
+```
+
+Number of times the objective function was invoked (less is better):
+
+```
+SFS:    22791
+GA:     600525
+CMA-ES: 20000
 ```
 
 ```
-Objective function (less is better):
+Objective function best value found (less is better):
 
 SFS:    33708.9860
 GA:     33705.5696
