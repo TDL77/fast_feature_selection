@@ -18,7 +18,7 @@ Three feature selection techniques are explored:
 - Genetic Algorithms (GA) implemented via the [deap](https://github.com/DEAP/deap) library
 - Covariance Matrix Adaptation Evolution Strategy (CMA-ES) implemented via the [cmaes](https://github.com/CyberAgentAILab/cmaes) library
 
-SFS and GA used a multiprocessing pool with 16 workers to run the objective function. CMA-EA used a single process for everything.
+SFS and GA used a multiprocessing pool with 16 workers to run the objective function. CMA-ES used a single process for everything.
 
 Results:
 
