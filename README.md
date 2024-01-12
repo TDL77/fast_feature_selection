@@ -2,11 +2,11 @@
 
 Genetic algorithms and CMA-ES (covariance matrix adaptation evolution strategy) for efficient feature selection
 
-This is the companion repository for a series of two articles about efficient feature selection for regression models.
+This is the companion repository for a series of two articles I've published on Medium, on the topic of efficient feature selection for regression models:
 
-Link 1: TBD
+[Efficient Feature Selection via CMA-ES (Covariance Matrix Adaptation Evolution Strategy)](https://towardsdatascience.com/efficient-feature-selection-via-cma-es-covariance-matrix-adaptation-evolution-strategy-ee312bc7b173)
 
-Link 2: TBD
+[Efficient Feature Selection via Genetic Algorithms](https://towardsdatascience.com/efficient-feature-selection-via-genetic-algorithms-d6d3c9aff274)
 
 I've used the [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset from Kaggle. After some processing, the dataset yields 213 features with 1453 observations.
 
