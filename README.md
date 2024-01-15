@@ -25,9 +25,9 @@ Results:
 Run time (less is better):
 
 ```
-SFS:    44.850 sec
-GA:     157.604 sec
-CMA-ES: 46.912 sec
+SFS:    42.448 sec
+GA:     158.027 sec
+CMA-ES: 48.326 sec
 ```
 
 Number of times the objective function was invoked (less is better):
@@ -41,7 +41,8 @@ CMA-ES: 20000
 Objective function best value found (less is better):
 
 ```
-SFS:    33708.9860
-GA:     33705.5696
-CMA-ES: 33703.0705
+baseline BIC: 34570.1662
+SFS:          33708.9860
+GA:           33705.5696
+CMA-ES:       33703.0705
 ```
